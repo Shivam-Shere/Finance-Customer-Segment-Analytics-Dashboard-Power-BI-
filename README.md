@@ -10,4 +10,4 @@ Developed an end-to-end interactive Financial Analytical solution  to  provide a
 
 ### 3. Customer Segment Analysis-
 
-Example: ![Customer Segment Analysis](https://github.com/Shivam-Shere/Finance-Customer-Segment-Analytics-Dashboard-Power-BI-/blob/main/Dashboard%20Snapshots/Customer%20Segment%20Analysis.png)
+![Customer Segment Analysis](https://github.com/Shivam-Shere/Finance-Customer-Segment-Analytics-Dashboard-Power-BI-/blob/main/Dashboard%20Snapshots/Customer%20Segment%20Analysis.png)
