@@ -1,6 +1,6 @@
 # Finance-Customer-Segment-Analytics-Dashboard-Power-BI-
-Developed an end-to-end interactive Financial Analytical solution  to  provide a centralized view and monitor transaction performance, customer  behavior, fees, taxes, fraud risk, and Year-over-Year (YoY) business trends.
-
+**Developed an end-to-end interactive Finance and Customer Segment Analytical solution to provide a centralized view and monitor transaction performance, customer behavior, fees, taxes, fraud risk, and Year-over-Year (YoY) business trends.
+**
 
 # Business Impact:
 *The dashboard provides a centralized view of financial performance, customer behavior, and transaction activities, enabling to monitor KPIs, identify revenue opportunities, detect fraud risks, analyze customer segments, and make faster data-driven decisions through interactive and real-time insights.*
