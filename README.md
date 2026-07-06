@@ -6,7 +6,11 @@ Developed an end-to-end interactive Financial Analytical solution  to  provide a
 
 ### 1. Overview Analysis-
 
+![Overview Analysis](https://github.com/Shivam-Shere/Finance-Customer-Segment-Analytics-Dashboard-Power-BI-/blob/main/Dashboard%20Snapshots/Customer%20Segment%20Analysis.png)
+
 ### 2. Transaction Analysis-
+
+![Transaction Analysis](https://github.com/Shivam-Shere/Finance-Customer-Segment-Analytics-Dashboard-Power-BI-/blob/main/Dashboard%20Snapshots/Customer%20Segment%20Analysis.png)
 
 ### 3. Customer Segment Analysis-
 
