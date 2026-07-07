@@ -6,23 +6,15 @@
 
 
 # Key Insights:
-1. Retail customers generate the highest revenue, making them the most valuable customer segment.
+1. Retail customers generate the highest revenue, making them the most valuable customer segment and a key focus for customer retention and engagement.
 
-2. The South and North regions contribute the highest transaction amounts and customer base, while the East region has significant growth potential.
+2. The South and North regions contribute the highest transaction value and customer base, while the East region presents a strong opportunity for business expansion.
 
-3. The transaction success rate is 85.74%, indicating opportunities to reduce failed and pending transactions.
+3. Loan EMI is the highest-value transaction type, making it the primary revenue driver, while the 85.74% transaction success rate indicates room to improve customer experience by reducing failed and pending transactions.
 
-4. Loan EMI contributes the highest transaction amount, making it the most profitable transaction type.
+4. Most transactions occur through physical channels, highlighting the need to increase digital channel adoption. Additionally, Gen X is the largest customer segment, while Millennials and Gen Z offer significant future growth potential.
 
-5. Fraud transactions require continuous monitoring to reduce financial risk.
-
-6. Most transactions occur through physical channels, highlighting an opportunity to increase digital adoption.
-   
-7. Weekday transaction volume is significantly higher than weekend activity.
-
-8. Gen X represents the largest customer group, while Millennials and Gen Z offer future growth opportunities.
-
-9. Customer acquisition has declined compared to the previous year, indicating a need for targeted acquisition strategies.
+5. Customer acquisition has declined compared to the previous year, and fraud transactions require continuous monitoring, making customer growth strategies and fraud prevention key priorities for improving business performance.
 
 
 # Results:
