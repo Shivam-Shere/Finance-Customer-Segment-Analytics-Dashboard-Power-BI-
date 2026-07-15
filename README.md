@@ -32,6 +32,3 @@
 ![Customer Segment Analysis](https://github.com/Shivam-Shere/Finance-Customer-Segment-Analytics-Dashboard-Power-BI-/blob/main/Dashboard%20Snapshots/Customer%20Segment%20Analysis.png)
 
 
-# Dashboard Link:
-
-![Dashboard](https://app.fabric.microsoft.com/Redirect?action=OpenApp&appId=8cea065e-a8f0-4bf1-8207-96515e549166&ctid=1fda2f65-9bdb-4dce-8b3a-d7cd13c410c5&experience=fabric-developer&clientSideAuth=0)
